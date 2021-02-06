@@ -8,3 +8,4 @@ This solution is not particularly efficient and does not solve harder Sudokus wh
 ## Data model ##
 
 ![Kotlin Data Model](SudokuKotlinDataModel.png)
+kotlin的数独软件，可以运行
